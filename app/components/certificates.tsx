@@ -1,7 +1,7 @@
 import React from "react";
 
 import Image from "next/image";
-import udemy from "../../public/Udemy.png";
+import udemy from "../../public/udemy.png";
 import aws from "../../public/aws.png";
 import hackathon from "../../public/hackathon.jpeg";
 import unstop from "../../public/unstop.png";
