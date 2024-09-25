@@ -99,7 +99,7 @@ export default function Intro() {
             <FaLinkedin className="hover:scale-105" />
           </motion.a>
           <motion.a
-            href="https://www.linkedin.com/in/mahirafakih/"
+            href="https://github.com/Mahirafakih"
             className=" text-3xl text-gray-900 bg-white  shadow-sm shadow-black/10 p-3 gap-2  flex items-center
              justify-center relative rounded-full"
             initial={{ opacity: 0, y: 100 }}
