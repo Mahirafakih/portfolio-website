@@ -15,14 +15,11 @@ export default function About() {
         About Me
       </h1>
       <p className="mt-5   sm:mx-32 text-xl">
-        Skilled{" "}
+        Skilled and driven{" "}
         <span className="underline">
-          Computer Engineering fourth-year student{" "}
+          fourth-year Computer Engineering student{" "}
         </span>{" "}
-        with experience in designing, developing, and maintaining web
-        applications and a passion for blending creativity with technical
-        expertise. Proficient in web development technologies and designing
-        tools such as{" "}
+        with three months of internship experience, bringing hands-on exposure to real-world software development environments. Experienced in designing, developing, and maintaining web applications, blending creativity with strong technical expertise. Proficient in web development technologies and design tools such as {" "}
         <span className="text-[#fda4af] font-semibold"> Figma, </span>
         <span className="text-[#fda4af] font-semibold">
           HTML, CSS, JavaScript
@@ -33,7 +30,7 @@ export default function About() {
         </span>{" "}
         alongside a solid foundation in core coding languages like{" "}
         <span className="text-[#a5b4fc] font-semibold ">
-          C, C++, Java and Python.
+          Java and Python.
         </span>{" "}
         Collaborative team player with excellent communication and
         problem-solving abilities.
