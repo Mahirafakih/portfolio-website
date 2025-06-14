@@ -1,7 +1,7 @@
 import { hash } from "crypto";
 import bookstack from "../../public/bookstack.png";
 import pharmcare from "../../public/pharmcare.png";
-import caderno from "../../public/caderno.png";
+import feedback from "../../public/feedback.jpg"
 
 export const links = [
   {
@@ -50,11 +50,11 @@ export const projectsData = [
     imageUrl: pharmcare,
   },
   {
-    title: "Caderno",
+    title: "Student Feedback Analysis",
     description:
-      "A notes management app designed to help students organize, store, and access their notes efficiently. Students can also view previous year papers,do weekly quizzes. I was incharged of designing the UI in Figma ",
-    tags: ["Figma", "Android Studio", "Firebase"],
-    imageUrl: caderno,
+      "A smart platform that collects student feedback, visualizes it on a dashboard for teachers, and uses AI to generate actionable suggestions based on negative responses",
+    tags: ["React", "Python(Flask)", "OLLAMA", "TailwindCSS"],
+    imageUrl: feedback,
   },
 ] as const;
 

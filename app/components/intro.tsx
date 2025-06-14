@@ -72,7 +72,7 @@ export default function Intro() {
             <GoArrowRight />{" "}
           </motion.a>
           <motion.a
-            href="/MAHIRA FAKIH Resume.pdf"
+            href="/MAHIRA_Resume.pdf"
             download
             className=" hover:bg-slate-200 shadow-sm shadow-black/10 cursor-pointer font-medium bg-white text-black  flex items-center py-3 px-7 
           gap-2 justify-center relative rounded-full "

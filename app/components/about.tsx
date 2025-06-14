@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 export default function About() {
   return (
     <motion.section
-      className="text-center m-8 mt-10 sm:mx-28 mt-0 scroll-mt-40 dark:text-gray-100"
+      className="text-center m-8 sm:mx-28 mt-0 scroll-mt-40 dark:text-gray-100"
       initial={{ opacity: 0, y: 100 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ delay: 0.155 }}
@@ -15,10 +15,10 @@ export default function About() {
         About Me
       </h1>
       <p className="mt-5   sm:mx-32 text-xl">
-        Skilled and driven{" "}
+        Skilled and driven
         <span className="underline">
-          fourth-year Computer Engineering student{" "}
-        </span>{" "}
+          fourth-year Computer Engineering student
+        </span>
         with three months of internship experience, bringing hands-on exposure to real-world software development environments. Experienced in designing, developing, and maintaining web applications, blending creativity with strong technical expertise. Proficient in web development technologies and design tools such as {" "}
         <span className="text-[#fda4af] font-semibold"> Figma, </span>
         <span className="text-[#fda4af] font-semibold">
